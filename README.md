@@ -9,5 +9,5 @@ https://user-images.githubusercontent.com/106706089/188246679-c862d6a0-c7b8-4e2a
 ## How to do ?
 
 #### here is a tuto to realize the project in isometric
-- (https://pikuma.com/blog/isometric-projection-in-games)
-- (https://gamedevelopment.tutsplus.com/tutorials/creating-isometric-worlds-a-primer-for-game-developers--gamedev-6511)
+- [tuto 1](https://pikuma.com/blog/isometric-projection-in-games)
+- [tuto 2](https://gamedevelopment.tutsplus.com/tutorials/creating-isometric-worlds-a-primer-for-game-developers--gamedev-6511)

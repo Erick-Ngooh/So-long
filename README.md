@@ -1,3 +1,3 @@
 # So-long
 
-https://user-images.githubusercontent.com/106706089/188246215-5520ee10-a7ad-4a8b-9582-01432845e040.webm
+https://user-images.githubusercontent.com/106706089/188246679-c862d6a0-c7b8-4e2a-be7f-9d7034d27259.webm
